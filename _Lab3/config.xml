@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<FileManagerOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StorageOptions>
+    <SourceDirectory>‪G:\Work</SourceDirectory>
+    <TargetDirectory>G:\Work\Encrypted</TargetDirectory>
+    <ArchiveDirectory>‪G:\Work\Archived</ArchiveDirectory>
+  </StorageOptions>
+  <EncryptOptions>
+    <ToArchive>true</ToArchive>
+    <ToEncrypt>true</ToEncrypt>
+  </EncryptOptions>
+</FileManagerOptions>
